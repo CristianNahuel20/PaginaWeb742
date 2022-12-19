@@ -1,0 +1,126 @@
+
+.btnbtn-primary {
+text-decoration: none;
+display:block;
+width: 150px;
+padding-top: 8px;
+text-align: center;
+height: 40px;
+margin: auto;
+
+
+background-color: #28B19D;
+color: #fff;
+font-family: arial;
+
+transition: 2s;
+-webkit-transition: 2s;
+-o-transition:2s;
+-moz-transition: 2s;
+-ms-transition: 2s;
+}
+.btnbtn-primary a:hover{
+  background-color: rgb(203, 63, 63);
+ width: 250px;
+}
+
+
+
+body {
+font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+text-align: center;
+margin-top: 2%;
+font-family: 'Galada', cursive;  
+text-shadow: 4px 4px 4px #aaa;
+}
+
+
+.carousel-inner img {
+  width: 100%;
+ max-height: 460px;
+  
+}
+
+.carousel-inner{
+height: 200px;
+}
+
+
+.footer {
+  margin-top: 2%;
+  display: block;
+  width: 100%;
+  position: relative;
+  background: #150c21;
+  padding: 150px 25px 50px 25px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.pato{
+text-align: center;}
+.footer-start {
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1280px;
+  width: 90%;
+  margin: auto;
+  padding: 80px 100px;
+  background: #705df2;
+  border-radius: 15px;
+}
+
+.footer .inner {
+  display: flex;
+  align-items: self-start;
+  justify-content: space-between;
+  column-gap: 20px;
+  row-gap: 20px;
+  max-width: 1180px;
+  margin: auto;
+  text-align: left;
+}
+.footer .column {
+  width: 100%;
+  font-size: 14px;
+  text-align: left;
+}
+.footer .column .column-title {
+  font-weight: 700;
+  font-size: 16px;
+  margin-bottom: 0.5em;
+  color: #fff;
+}
+.footer .column .column-title:not(:first-child) {
+  margin-top: 1em;
+}
+/* Color Theme Swatches in Hex */
+.Diseño-gráfico-1-hex { color: #0487D9; }
+.Diseño-gráfico-2-hex { color: #05AFF2; }
+.Diseño-gráfico-3-hex { color: #05F2F2; }
+.Diseño-gráfico-4-hex { color: #03A66A; }
+.Diseño-gráfico-5-hex { color: #0FBF5C; }
+
+/* Color Theme Swatches in RGBA */
+.Diseño-gráfico-1-rgba { color: rgba(4, 135, 216, 1); }
+.Diseño-gráfico-2-rgba { color: rgba(4, 174, 242, 1); }
+.Diseño-gráfico-3-rgba { color: rgba(4, 242, 242, 1); }
+.Diseño-gráfico-4-rgba { color: rgba(3, 165, 106, 1); }
+.Diseño-gráfico-5-rgba { color: rgba(15, 191, 91, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Diseño-gráfico-1-hsla { color: hsla(202, 96, 43, 1); }
+.Diseño-gráfico-2-hsla { color: hsla(196, 96, 48, 1); }
+.Diseño-gráfico-3-hsla { color: hsla(180, 96, 48, 1); }
+.Diseño-gráfico-4-hsla { color: hsla(157, 96, 33, 1); }
+.Diseño-gráfico-5-hsla { color: hsla(146, 85, 40, 1); }
+
+
+.pepe{ 
+  margin-top: 10%;
+}
